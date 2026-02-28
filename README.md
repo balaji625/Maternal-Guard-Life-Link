@@ -21,7 +21,7 @@ Password: BALAJI
 - **Bathala Balaji**
 - **K Sai**
 - **K Pedda Reddy**
-- **C Koushik**
+- **C Koushik  Reddy**
 
 ---
 

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://maternal-guard-life-link-1.onrender.com';
 
 export const predictRisk = async (data) => {
     try {

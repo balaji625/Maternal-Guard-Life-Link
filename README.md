@@ -75,12 +75,31 @@ From prediction to donor match — in seconds.
 
 ### 📊 Dashboard Interface
 
-<img width="1153" height="552" alt="image" src="https://github.com/user-attachments/assets/917b50a8-95bd-4b01-8963-e77ed9e762aa" />
-<img width="1153" height="552" alt="image" src="https://github.com/user-attachments/assets/917b50a8-95bd-4b01-8963-e77ed9e762aa" />
-<img width="1153" height="552" alt="image" src="https://github.com/user-attachments/assets/917b50a8-95bd-4b01-8963-e77ed9e762aa" />
-<img width="1153" height="552" alt="image" src="https://github.com/user-attachments/assets/917b50a8-95bd-4b01-8963-e77ed9e762aa" />
-<img width="1153" height="552" alt="image" src="https://github.com/user-attachments/assets/917b50a8-95bd-4b01-8963-e77ed9e762aa" />
-<img width="1153" height="552" alt="image" src="https://github.com/user-attachments/assets/917b50a8-95bd-4b01-8963-e77ed9e762aa" />
+<img width="1155" height="552" alt="image" src="https://github.com/user-attachments/assets/cb6f3a8c-7cd0-4951-a901-e6d2f671d7e5" />
+
+### 🧪 Risk Analysis Engine
+
+<img width="1335" height="701" alt="image" src="https://github.com/user-attachments/assets/a9b965a3-9583-4da0-ae59-9884c56c35f0" />
+
+### 🚨 Emergency SOS Dispatch
+
+<img width="1319" height="705" alt="image" src="https://github.com/user-attachments/assets/8126d560-9286-488f-ae5a-964b2758e8b5" />
+
+### 🩸 Donor Network Registry
+
+<img width="1366" height="698" alt="image" src="https://github.com/user-attachments/assets/fe95944e-e3f3-4d5f-87fa-7480e22444cc" />
+
+## 📈 User History & Real-Time Monitoring
+
+<img width="1121" height="697" alt="image" src="https://github.com/user-attachments/assets/454212ae-fdea-4345-9945-74b3f5bfe027" />
+
+## 🗺️ Donor GPS Navigation System
+
+<img width="1235" height="706" alt="image" src="https://github.com/user-attachments/assets/570f6bc8-993e-4aa6-ad93-e9ed72e25153" />
+
+## 📧 Dynamic Email Integration System
+
+<img width="1341" height="701" alt="image" src="https://github.com/user-attachments/assets/b1ff6d6f-a0f4-47d6-b41b-4f70a03dadb9" />
 
 
 ---
